@@ -36,6 +36,7 @@ public class Main{
 		 * }
 		 */
     	System.out.println(Runtime.getRuntime().availableProcessors());
+    	System.out.println("Right");
 	       
 	       
     	
